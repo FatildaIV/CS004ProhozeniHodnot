@@ -1,0 +1,13 @@
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS004ProhozeniHodnot\CS004ProhozeniHodnot\bin\Debug\netcoreapp3.1\CS004ProhozeniHodnot.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS004ProhozeniHodnot\CS004ProhozeniHodnot\bin\Debug\netcoreapp3.1\CS004ProhozeniHodnot.deps.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS004ProhozeniHodnot\CS004ProhozeniHodnot\bin\Debug\netcoreapp3.1\CS004ProhozeniHodnot.runtimeconfig.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS004ProhozeniHodnot\CS004ProhozeniHodnot\bin\Debug\netcoreapp3.1\CS004ProhozeniHodnot.runtimeconfig.dev.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS004ProhozeniHodnot\CS004ProhozeniHodnot\bin\Debug\netcoreapp3.1\CS004ProhozeniHodnot.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS004ProhozeniHodnot\CS004ProhozeniHodnot\bin\Debug\netcoreapp3.1\CS004ProhozeniHodnot.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS004ProhozeniHodnot\CS004ProhozeniHodnot\obj\Debug\netcoreapp3.1\CS004ProhozeniHodnot.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS004ProhozeniHodnot\CS004ProhozeniHodnot\obj\Debug\netcoreapp3.1\CS004ProhozeniHodnot.AssemblyInfoInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS004ProhozeniHodnot\CS004ProhozeniHodnot\obj\Debug\netcoreapp3.1\CS004ProhozeniHodnot.AssemblyInfo.cs
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS004ProhozeniHodnot\CS004ProhozeniHodnot\obj\Debug\netcoreapp3.1\CS004ProhozeniHodnot.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS004ProhozeniHodnot\CS004ProhozeniHodnot\obj\Debug\netcoreapp3.1\CS004ProhozeniHodnot.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS004ProhozeniHodnot\CS004ProhozeniHodnot\obj\Debug\netcoreapp3.1\CS004ProhozeniHodnot.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS004ProhozeniHodnot\CS004ProhozeniHodnot\obj\Debug\netcoreapp3.1\CS004ProhozeniHodnot.genruntimeconfig.cache
